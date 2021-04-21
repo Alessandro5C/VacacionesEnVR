@@ -326,20 +326,28 @@ p {
   }
 }
 .tm-bg-green {
-  background-image: url(../img/viaje.jpg);
-  background-size: cover;
+  background-image: url(../img/valley.jpeg);
+    background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
 .tm-bg-orange {
-  background-image: url(../img/virtual.jfif);
-  background-size: cover;
+  background-image: url(../img/street.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
 
 .tm-bg-blue {
-  background-image: url(../img/anfitrion.jpg);
-  background-size: cover;
+  background-image: url(../img/eiffel_tower.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
 
 .tm-bg-dark-gray {
-  background-image: url(../img/viaje_virtual.jpg);
-  background-size: cover;
+  background-image: url(../img/mountain.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
